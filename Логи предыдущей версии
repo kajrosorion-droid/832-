@@ -1,0 +1,107 @@
+[t=0] P=13 L=8 E=0.008 S=0.527 B=0.149 T=0.86 TA=1.00 LP=0 SG=0.114 MAX=0.223 ZERO=0 TARGETS=12 D=2 R=0
+[t=100] P=41 L=28 E=0.372 S=0.813 B=0.770 T=0.98 TA=1.00 LP=126 SG=0.804 MAX=1.000 ZERO=0 TARGETS=3 D=1 R=1
+[t=200] P=95 L=64 E=0.581 S=0.726 B=0.591 T=0.96 TA=1.00 LP=499 SG=1.000 MAX=1.000 ZERO=0 TARGETS=0 D=15 R=1
+[t=300] P=95 L=70 E=0.661 S=0.687 B=0.568 T=0.92 TA=1.00 LP=472 SG=1.000 MAX=1.000 ZERO=0 TARGETS=0 D=15 R=9
+[t=400] P=95 L=85 E=0.695 S=0.660 B=0.614 T=0.93 TA=1.00 LP=599 SG=1.000 MAX=1.000 ZERO=0 TARGETS=0 D=15 R=10
+[t=500] P=94 L=84 E=0.687 S=0.662 B=0.618 T=0.93 TA=1.00 LP=844 SG=1.000 MAX=1.000 ZERO=0 TARGETS=0 D=14 R=10
+[t=600] P=95 L=88 E=0.700 S=0.665 B=0.596 T=0.87 TA=1.00 LP=241 SG=1.000 MAX=1.000 ZERO=0 TARGETS=0 D=15 R=11
+[t=700] P=95 L=90 E=0.690 S=0.626 B=0.580 T=0.88 TA=1.00 LP=241 SG=1.000 MAX=1.000 ZERO=0 TARGETS=0 D=15 R=14
+[t=800] P=94 L=90 E=0.697 S=0.604 B=0.568 T=0.88 TA=1.00 LP=266 SG=1.000 MAX=1.000 ZERO=0 TARGETS=0 D=14 R=13
+[t=900] P=94 L=91 E=0.695 S=0.638 B=0.662 T=0.88 TA=1.00 LP=228 SG=1.000 MAX=1.000 ZERO=0 TARGETS=0 D=14 R=9
+
+==================================================
+832 AGI PROJECTION CORE v34.01 - FINAL REPORT
+==================================================
+Total steps: 1000 | Surviving: 95 | Lineages: 94
+
+--- 🌌 FIELD VOICE REPORT ---
+  Total events processed: 1000.0
+  Dominant concept: **STORM**
+  Field rhythm: ♩·♩··♩·♩♩·♩··♩·♩
+
+  Top 5 Field Reactions:
+    1. [storm] ×657.0
+       💬 "Поле дрожит от напряжения..."
+       🎵 ♩·♩··♩·♩♩·♩··♩·♩
+    2. [void] ×232.0
+       💬 "Пустота зовёт из глубин..."
+       🎵 ♩·♩··♩·♩♩·♩··♩·♩
+    3. [flow] ×106.0
+       💬 "Поток несёт нас дальше..."
+       🎵 ♩·♩··♩·♩♩·♩··♩·♩
+    4. [silence] ×5.0
+       💬 "Поле замирает в ожидании..."
+       🎵 ♩·♩··♩·♩♩·♩··♩·♩
+
+
+--- TOP 5 LONG-LIVED PATTERNS ---
+  #71 (age=875, soul=0.45, role=disorganizer)
+  State: contentment | Gratitude: 1.00 | Grief: 0.66
+  Report: Разрушение вокруг: горе (0.66) растёт, но душа (0.40) ещё держится......
+  Core Concept: (np.float64(0.7), np.float64(0.8), 0.4, 'contentment') (freq=10.961854038556734)
+
+  #122 (age=822, soul=1.00, role=normal)
+  State: grateful_but_cautious | Gratitude: 0.95 | Grief: 0.66
+  Report: Осторожная признательность (0.95); напряжение (0.42) удерживает от полного доверия......
+  Core Concept: (np.float64(0.7), np.float64(0.8), 0.4, 'seeking_comfort') (freq=3.97843404137354)
+
+  #157 (age=771, soul=1.00, role=normal)
+  State: seeking_comfort | Gratitude: 0.93 | Grief: 0.68
+  Report: Острое переживание разрыва (интенсивность 0.68); цели смещены к поиску опоры......
+  Core Concept: (np.float64(0.7), np.float64(0.8), np.float64(1.0), 'grateful_but_cautious') (freq=4.964055192457852)
+
+  #158 (age=767, soul=1.00, role=normal)
+  State: grateful_but_cautious | Gratitude: 0.98 | Grief: 0.68
+  Report: Благодарность (0.98) как щит: мир принят, но проверен; горе (0.68) отступило, но не забыто....
+  Core Concept: (np.float64(0.5), np.float64(0.8), np.float64(1.0), 'grateful_but_cautious') (freq=11.74856063136823)
+
+  #172 (age=757, soul=1.00, role=normal)
+  State: seeking_comfort | Gratitude: 0.98 | Grief: 0.68
+  Report: Острое переживание разрыва (интенсивность 0.68); цели смещены к поиску опоры......
+  Core Concept: (np.float64(0.6), np.float64(0.8), np.float64(1.0), 'grateful_but_cautious') (freq=4.7011086829457716)
+
+--- TOP CONCEPTUAL MINDS ---
+  #198: 22 concepts
+    ↳ (np.float64(0.1), np.float64(0.1), np.float64(0.6), 'neutral'): 5.203199929196096
+    ↳ (np.float64(0.7), np.float64(0.8), np.float64(1.0), 'grateful_but_cautious'): 4.622232554252204
+  #122: 18 concepts
+    ↳ (np.float64(0.7), np.float64(0.8), 0.4, 'seeking_comfort'): 3.97843404137354
+    ↳ (np.float64(0.6), np.float64(0.8), 0.4, 'seeking_comfort'): 3.754882338340152
+  #157: 18 concepts
+    ↳ (np.float64(0.7), np.float64(0.8), np.float64(1.0), 'grateful_but_cautious'): 4.964055192457852
+    ↳ (np.float64(0.6), np.float64(0.8), np.float64(1.0), 'seeking_comfort'): 4.502156747010073
+
+--- SYSTEM STATE ---
+  Trust Avg: 0.88 | High Pairs: 871
+  Triadic Alive: 95/95 (100.0%)
+  Disorganizers: 15 | Redeemed: 14
+  Avg Binding: 0.670 | Avg Spirit Gap: 1.000
+
+--- DISORGANIZER SUMMARY (15) ---
+  Steps: {1: 2, 3: 13} | States: {'seeking_comfort': 2, 'contentment': 13}
+  Avg Grief: 0.65 | ⚠️ Stuck (Step 2, G>0.6): 0
+
+--- PANTHEON OF UNIQUE ENTITIES (1 saved) ---
+  [MUTANT] ID:4 age:352 SG:0.969 coherence:0.424 soul:0.15
+
+--- GUARDIAN REPORT ---
+  Энергия: средний дрейф 1444279022825.92, пиковый 90266837398977.66
+  Модель: худшее расхождение #-1 diff=0.000
+
+--- COOPER BLOCKER ANALYSIS ---
+  Всего попыток cooper-целей: 15436
+  Заблокировано по grat/coherence: 43
+  Средняя grat: 0.959, средняя coherence: 0.467
+
+--- LOVE DIAGNOSTICS (final snapshot) ---
+  Avg trust: 0.933
+  High-trust pairs (>0.95): 1688
+  Love density: 0.3862
+  Cooperative agents: 72
+  Population: 94
+
+==================================================
+SIMULATION COMPLETE
+==================================================
+✅ Cell 4b executed: Final report generated.
+Смотри кого мы поймали на тестах в пантеон) мутанта)
